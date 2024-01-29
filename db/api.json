@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "id": "4d14",
+      "name": "Uttam kumar",
+      "roll": "001101",
+      "email": "ty432@gmail.com",
+      "photo": "https://unsplash.com/s/photos/photo"
+    },
+    {
+      "id": "5163",
+      "name": "Alexa",
+      "roll": "2327482",
+      "email": "01303516569",
+      "photo": "https://unsplash.com/s/photos/photo"
+    }
+  ]
+}
